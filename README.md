@@ -10,7 +10,7 @@ Due to academic integrity rules, the code will remain hidden in a private reposi
 
 # Images
 
-## requesting location permissions
+## Requesting location permissions
 ![location image](location-request.jpg)
 
 ## Map view
